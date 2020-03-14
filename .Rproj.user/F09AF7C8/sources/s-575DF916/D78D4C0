@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584147743700.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D78D4C0",
+    "lastKnownWriteTime" : 1584147765,
+    "last_content_update" : 1584147765980,
+    "path" : "C:/GSOC2020/rsqliteadminGolem/R/fct_helpers.R",
+    "project_path" : "R/fct_helpers.R",
+    "properties" : {
+        "cursorPosition" : "3,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

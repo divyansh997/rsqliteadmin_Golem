@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584147737539.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B07CF212",
+    "lastKnownWriteTime" : 1584149411,
+    "last_content_update" : 1584149411161,
+    "path" : "C:/GSOC2020/rsqliteadminGolem/R/mod_Databases.R",
+    "project_path" : "R/mod_Databases.R",
+    "properties" : {
+        "cursorPosition" : "56,44",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

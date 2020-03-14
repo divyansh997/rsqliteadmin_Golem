@@ -1,0 +1,17 @@
+Package: rsqliteadminGolem
+Title: rsqliteadminGolem
+Version: 0.0.0.9000
+Authors@R: person('Divyansh', 'Chawla', email = 'code.divyansh@gmail.com', role = c('cre', 'aut'))
+Description: SQLite admin tool in R shiny.
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny,
+    htmltools,
+    thinkr,
+    RSQLite,
+    DT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
